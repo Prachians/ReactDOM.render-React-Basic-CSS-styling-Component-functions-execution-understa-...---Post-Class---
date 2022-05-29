@@ -1,4 +1,3 @@
-import React, { Component, useState } from 'react';
 import '../styles/App.css';
 
 //! App is the name of component as per the test
